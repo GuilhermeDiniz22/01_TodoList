@@ -137,7 +137,7 @@ void EditarTarefa()
         Console.WriteLine("Escolha a tarefa para editar: ");
         var TarefaEscolhida = Console.ReadLine().ToLower();
 
-        if (TarefaEscolhida == "")
+        if (string.IsNullOrWhiteSpace(TarefaEscolhida))
         {
             Console.WriteLine();
             TarefaVazia();
