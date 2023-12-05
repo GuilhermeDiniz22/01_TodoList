@@ -1,0 +1,14 @@
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net6.0\ListaDeAfazeres.exe
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net6.0\ListaDeAfazeres.deps.json
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net6.0\ListaDeAfazeres.runtimeconfig.json
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net6.0\ListaDeAfazeres.dll
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net6.0\ListaDeAfazeres.pdb
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.AssemblyInfoInputs.cache
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.AssemblyInfo.cs
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.csproj.CoreCompileInputs.cache
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.dll
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\refint\ListaDeAfazeres.dll
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.pdb
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ListaDeAfazeres.genruntimeconfig.cache
+C:\Users\Karla Reis\Desktop\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net6.0\ref\ListaDeAfazeres.dll
